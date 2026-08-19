@@ -9,7 +9,7 @@ class ClienteTest{
     fun probarCliente() {
         val cliente = Cliente(
             id = 1L,
-            nombre = "Farmacia Nueva Vida",
+            nombre = "Farmacia Nuevas Vida",
             correo = "ventas@central.pe",
             telefono = "987654321"
         )
